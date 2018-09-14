@@ -1,0 +1,50 @@
+Enter the private passphrase for your new wallet:
+Confirm passphrase:
+Do you want to add an additional layer of encryption for public data? (n/no/y/yes) [no]:
+Do you have an existing wallet seed you want to use? (n/no/y/yes) [no]: n
+Your wallet generation seed is:
+skullcap Camelot puppy enterprise billiard inertia
+tumor Bradbury reform amulet reindeer revenue
+banjo filament tempest butterfat blowtorch Bradbury
+scorecard borderline ammo tradition seabird recipe
+blowtorch disbelief artist Hamilton crackdown recover
+gazelle integrate sawdust
+
+Hex: bd219b531f79ec1aa306a5ca175de120231ab5180ce4b7c0234c0f6b40c1697f
+IMPORTANT: Keep the seed in a safe place as you
+will NOT be able to restore your wallet without it.
+Please keep in mind that anyone who has access
+to the seed can also restore your wallet thereby
+giving them access to all your funds, so it is
+imperative that you keep it in a secure location.
+Once you have stored the seed in a safe and secure location, enter "OK" to continue: OK
+Creating the wallet...
+2018-09-07 16:18:04.375 [INF] WLLT: Upgrading database from version 1 to 11
+2018-09-07 16:18:05.972 [INF] WLLT: Opened wallet
+The wallet has been created successfully.
+
+第一次启动执行命令行
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+➜  decred ./dcrctl --wallet getaccountaddress default
+DsoeXd5DTBdgW292EUnSTJuahonojioB7XU
+
+之后不变
+
+UI钱包地址一样

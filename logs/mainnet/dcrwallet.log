@@ -1,0 +1,81 @@
+2018-09-09 12:14:00.914 [INF] WLLT: Upgrading database from version 1 to 11
+2018-09-09 12:14:02.513 [INF] WLLT: Opened wallet
+2018-09-09 12:14:13.390 [INF] DCRW: Version 1.4.0-pre+dev (Go version go1.11 darwin/amd64)
+2018-09-09 12:14:14.300 [INF] WLLT: Opened wallet
+2018-09-09 12:14:15.101 [INF] WLLT: The wallet has been unlocked without a time limit
+2018-09-09 12:14:15.111 [WRN] DCRW: Can't listen on 127.0.0.1:9111: listen tcp4 127.0.0.1:9111: bind: address already in use
+2018-09-09 12:14:15.111 [WRN] DCRW: Can't listen on [::1]:9111: listen tcp6 [::1]:9111: bind: address already in use
+2018-09-09 12:14:15.111 [ERR] DCRW: Unable to create RPC servers: failed to create listeners for RPC server
+2018-09-09 12:14:15.112 [INF] DCRW: Closed wallet
+2018-09-09 12:14:29.274 [INF] DCRW: Version 1.4.0-pre+dev (Go version go1.11 darwin/amd64)
+2018-09-09 12:14:30.141 [INF] WLLT: Opened wallet
+2018-09-09 12:14:30.925 [INF] WLLT: The wallet has been unlocked without a time limit
+2018-09-09 12:14:30.935 [INF] DCRW: gRPC server listening on 127.0.0.1:9111
+2018-09-09 12:14:30.935 [INF] DCRW: gRPC server listening on [::1]:9111
+2018-09-09 12:14:30.936 [WRN] DCRW: Cannot open CA file: open dcrd.cert: no such file or directory
+2018-09-09 12:14:30.936 [INF] DCRW: Attempting RPC client connection to localhost:9109
+2018-09-09 12:14:30.936 [INF] RPCS: Listening on [::1]:9110
+2018-09-09 12:14:30.935 [INF] RPCS: Listening on 127.0.0.1:9110
+2018-09-09 12:14:30.938 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:14:32.871 [INF] DCRW: Received signal (interrupt).  Shutting down...
+2018-09-09 12:14:32.871 [WRN] DCRW: Stopping JSON-RPC server...
+2018-09-09 12:14:32.872 [INF] DCRW: JSON-RPC server shutdown
+2018-09-09 12:14:32.872 [WRN] DCRW: Stopping gRPC server...
+2018-09-09 12:14:32.872 [INF] DCRW: gRPC server shutdown
+2018-09-09 12:14:32.872 [INF] DCRW: Closed wallet
+2018-09-09 12:15:03.585 [INF] DCRW: Version 1.4.0-pre+dev (Go version go1.11 darwin/amd64)
+2018-09-09 12:15:04.467 [INF] WLLT: Opened wallet
+2018-09-09 12:15:05.266 [INF] WLLT: The wallet has been unlocked without a time limit
+2018-09-09 12:15:05.266 [INF] DCRW: Generating TLS certificates...
+2018-09-09 12:15:05.266 [ERR] DCRW: Unable to create RPC servers: mkdir : no such file or directory
+2018-09-09 12:15:05.267 [INF] DCRW: Closed wallet
+2018-09-09 12:15:10.183 [INF] DCRW: Version 1.4.0-pre+dev (Go version go1.11 darwin/amd64)
+2018-09-09 12:15:11.090 [INF] WLLT: Opened wallet
+2018-09-09 12:15:11.886 [INF] WLLT: The wallet has been unlocked without a time limit
+2018-09-09 12:15:11.886 [INF] DCRW: Server TLS is disabled.  Only legacy RPC may be used
+2018-09-09 12:15:11.886 [WRN] DCRW: Cannot open CA file: open dcrd.cert: no such file or directory
+2018-09-09 12:15:11.886 [INF] DCRW: Attempting RPC client connection to localhost:9109
+2018-09-09 12:15:11.886 [INF] RPCS: Listening on 127.0.0.1:9110
+2018-09-09 12:15:11.886 [INF] RPCS: Listening on [::1]:9110
+2018-09-09 12:15:11.888 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:15:16.893 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:15:26.897 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:15:41.902 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:15:48.846 [INF] RPCS: RPC method getaccountaddress invoked by [::1]:59582
+2018-09-09 12:15:52.221 [INF] DCRW: Received signal (interrupt).  Shutting down...
+2018-09-09 12:15:52.221 [WRN] DCRW: Stopping JSON-RPC server...
+2018-09-09 12:15:52.222 [INF] DCRW: JSON-RPC server shutdown
+2018-09-09 12:15:52.222 [INF] DCRW: Closed wallet
+2018-09-09 12:17:19.913 [INF] DCRW: Version 1.4.0-pre+dev (Go version go1.11 darwin/amd64)
+2018-09-09 12:17:20.793 [INF] WLLT: Opened wallet
+2018-09-09 12:17:21.588 [INF] WLLT: The wallet has been unlocked without a time limit
+2018-09-09 12:17:21.588 [INF] DCRW: Server TLS is disabled.  Only legacy RPC may be used
+2018-09-09 12:17:21.588 [WRN] DCRW: Cannot open CA file: open dcrd.cert: no such file or directory
+2018-09-09 12:17:21.588 [INF] DCRW: Attempting RPC client connection to localhost:9109
+2018-09-09 12:17:21.588 [INF] RPCS: Listening on [::1]:9110
+2018-09-09 12:17:21.588 [INF] RPCS: Listening on 127.0.0.1:9110
+2018-09-09 12:17:21.590 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:17:26.598 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:17:28.829 [INF] RPCS: RPC method getaccountaddress invoked by [::1]:59605
+2018-09-09 12:17:36.603 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:17:37.691 [INF] RPCS: RPC method getaccountaddress invoked by [::1]:59610
+2018-09-09 12:17:42.442 [INF] DCRW: Received signal (interrupt).  Shutting down...
+2018-09-09 12:17:42.443 [WRN] DCRW: Stopping JSON-RPC server...
+2018-09-09 12:17:42.443 [INF] DCRW: JSON-RPC server shutdown
+2018-09-09 12:17:42.443 [INF] DCRW: Closed wallet
+2018-09-09 12:18:44.729 [INF] DCRW: Version 1.4.0-pre+dev (Go version go1.11 darwin/amd64)
+2018-09-09 12:18:45.613 [INF] WLLT: Opened wallet
+2018-09-09 12:18:46.411 [INF] WLLT: The wallet has been unlocked without a time limit
+2018-09-09 12:18:46.411 [INF] DCRW: Server TLS is disabled.  Only legacy RPC may be used
+2018-09-09 12:18:46.412 [WRN] DCRW: Cannot open CA file: open dcrd.cert: no such file or directory
+2018-09-09 12:18:46.412 [INF] DCRW: Attempting RPC client connection to localhost:9109
+2018-09-09 12:18:46.412 [INF] RPCS: Listening on 127.0.0.1:9110
+2018-09-09 12:18:46.412 [INF] RPCS: Listening on [::1]:9110
+2018-09-09 12:18:46.414 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:18:49.795 [INF] RPCS: RPC method getaccountaddress invoked by [::1]:59627
+2018-09-09 12:18:51.421 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:19:01.428 [ERR] SYNC: Connection attempt failed: dial tcp [::1]:9109: connect: connection refused
+2018-09-09 12:19:04.064 [INF] DCRW: Received signal (interrupt).  Shutting down...
+2018-09-09 12:19:04.064 [WRN] DCRW: Stopping JSON-RPC server...
+2018-09-09 12:19:04.064 [INF] DCRW: JSON-RPC server shutdown
+2018-09-09 12:19:04.064 [INF] DCRW: Closed wallet
